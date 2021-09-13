@@ -1,3 +1,3 @@
- 👋 Hi, I’m mustafa faqiry
+- 👋 Hi, I’m mustafa faqiry
  <span>Hello World!!</span>
 
