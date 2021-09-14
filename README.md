@@ -3,12 +3,8 @@
 -👋 Hi, I’m mustafa faqiry
  <pre>
 ----------------------------------------
-<span>Zendy, Hello World!!</span>
+<span>mustafa, Hello World!!</span>
 ----------------------------------------
-      \   ^__^
-       \  (oo)\_______
-          (__)\ 0   0 )\  *
-              ||--0-w | \/
-              ||     ||
+
 </pre>
 
